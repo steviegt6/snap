@@ -1,0 +1,1 @@
+﻿Spectre.Console.dll -> Spectre.Console 0.44.0 (<PackageReference Include="Spectre.Console" Version="0.44.0" />)

@@ -1,0 +1,10 @@
+﻿{
+  "Name": "SNAP",
+  "Author": "Tomat",
+  "Version": "1.0.0",
+  "Description": "SNAP - snap's not a patcher; a runtime mod rewriter.",
+  "UniqueID": "Tomat.SNAP",
+  "EntryDLL": "SNAP.dll",
+  "MinimumApiVersion": "4.0.0-alpha",
+  "UpdateKeys": []
+}
